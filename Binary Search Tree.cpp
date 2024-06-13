@@ -23,6 +23,11 @@ public:
     Node* ROOT;
 };
 
+void insert()
+{
+
+}
+
 int main() {
 
 }
