@@ -23,7 +23,7 @@ public:
     Node* ROOT;
 };
 
-void insert()
+void insert(string element)
 {
 
 }
