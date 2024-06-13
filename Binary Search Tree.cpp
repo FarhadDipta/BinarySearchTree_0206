@@ -8,6 +8,11 @@ public:
     string info;
     Node* leftchild;
     Node* rightchild;
+
+    Node (string i, Node* l, Node* r)
+    {
+        
+    }
 };
 
 int main() {
