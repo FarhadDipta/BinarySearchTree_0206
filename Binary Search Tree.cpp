@@ -53,6 +53,11 @@ public:
             parent->rightchild = newNode;
         }
     }
+
+    void search ()
+    {
+
+    }
 };
 
 
