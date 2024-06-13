@@ -34,7 +34,7 @@ void insert(string element)
     Node* currentNode = nullptr;
     search(element, parent, currentNode);
     
-    if ()
+    if (parent == nullptr)
     {
 
     }
